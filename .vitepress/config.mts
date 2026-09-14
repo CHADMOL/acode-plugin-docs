@@ -213,6 +213,10 @@ export default defineConfig({
 									link: "/docs/utilities/editor-themes",
 								},
 								{
+									text: "File Icons",
+									link: "/docs/utilities/file-icons",
+								},
+								{
 									text: "Code Highlight",
 									link: "/docs/utilities/code-highlight",
 								},

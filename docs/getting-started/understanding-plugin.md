@@ -36,6 +36,7 @@ Your init function receives:
   - `cacheFile`
   - `firstInit`
   - `ctx`
+  - `fileIcons` — plugin-bound [File Icons](../utilities/file-icons.md) API (versionCode `1012+`)
 
 Use `firstInit` for one-time setup or migration.
 

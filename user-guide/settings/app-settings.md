@@ -28,6 +28,7 @@ General application behavior and preferences.
 | Setting               | Description                                                                                    |
 | :-------------------- | :--------------------------------------------------------------------------------------------- |
 | **Fonts**             | Manage and add custom fonts to be used in editor or terminal.                                  |
+| **Icon pack**         | File and folder icons in the sidebar, tabs, and file lists. **Builtin** is always available; plugin packs appear after they register. |
 | **Animation**         | Control app animations: **System** (default), **Yes**, **No**.                                 |
 | **Change Language**   | Switch app language (English, Hindi, Spanish, etc.).                                           |
 | **Fullscreen**        | Hide title bar extra area and congested spacing for a larger workspace. (Disabled by default). |

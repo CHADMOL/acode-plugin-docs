@@ -38,6 +38,8 @@ Upon execution, the `init` function will receive three parameters:
       - URL of the cached file.
     - **cacheFile (File):**
       - File object of the cached file, enabling file read/write operations.
+    - **fileIcons:**
+      - Plugin-bound [File Icons](../utilities/file-icons.md) API (`register`, `icon`, `onChange`). Same instance as `acode.require("fileIcons")` captured in the main script. Available from **versionCode `1012`**.
 
 ### Example main.js File
 

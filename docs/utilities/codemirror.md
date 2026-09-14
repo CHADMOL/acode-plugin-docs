@@ -55,6 +55,7 @@ Prefer these requires over bundling your own copy of CodeMirror. Duplicate packa
 - Theme registration: `acode.require("editorThemes")` — see [Editor Themes](./editor-themes.md)
 - Language servers: `acode.require("lsp")` — see [LSP](../advanced-apis/lsp.md)
 - Static highlighter for snippets and plugin tabs: `acode.require("codeHighlight")` — see [Code Highlight](./code-highlight.md)
+- File and folder icon packs: `acode.require("fileIcons")` — see [File Icons](./file-icons.md)
 
 ## Minimal extension example
 
