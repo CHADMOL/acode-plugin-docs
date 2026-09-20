@@ -1,5 +1,5 @@
----
-lang: en-US
+CHADMOL
+lang: es-MX
 title: Acode Plugins
 ---
 # Acode Plugins
